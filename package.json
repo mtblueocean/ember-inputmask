@@ -21,7 +21,7 @@
     "ember-cli-babel": "^5.1.7",
     "ember-cli-node-assets": "^0.2.2",
     "fastboot-transform": "^0.1.1",
-    "inputmask": "git+https://github.com/mtblueocean/ember-inputmask.git#3d4e6ea507620a8a5a3290af842c0db6e247b06e"
+    "inputmask": "git+https://github.com/mtblueocean/ember-inputmask.git"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
